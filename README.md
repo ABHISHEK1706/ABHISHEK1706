@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development and AI
 - 💞️ I’m looking to collaborate on ...
-- 📫 you can reach me through whatsapp 9748912664
+
 
 <!---
 ABHISHEK1706/ABHISHEK1706 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
